@@ -1,7 +1,10 @@
 # 💫 About Me:
 🎓 Estudante de Ciência da Computação no IFB (Instituto Federal de Brasília)
+
 🔍 Interessada em Computação Forense e Segurança Digital
+
 🧠 Desenvolvendo e fortalecendo Hard Skills
+
 🌎 Português, Inglês e Espanhol
 
 ## 🌐 Socials:
